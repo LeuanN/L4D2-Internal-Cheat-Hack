@@ -3,9 +3,7 @@ Internal Hack for L4D2, using C++ and ImGui -
 
 Public & Safe Cheats: https://discord.gg/QJvweAchXH  - 
 
-This may generate FPS Drop,  -
-
-but it has almost everything a hack need -
+This may generate FPS Drop, but it has almost everything a hack need -
 
 Use this with the VAC-Bypass (https://github.com/LeuanN/V-A-C-420)  -
 
