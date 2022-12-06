@@ -14,19 +14,20 @@ I have on my profile and you should be good for the rest of your life in this ga
 
 
 How To Use:
-INJECT On the Main Menu! otherwise will cause Crash!
+ - 
+ -  INJECT On the Main Menu! otherwise will cause Crash!
 
-1.- Open L4D2
+ -  1.- Open L4D2
 
-2.- Wait for the menu to be succesfully loaded (not needed to let mods load)
+ -  2.- Wait for the menu to be succesfully loaded (not needed to let mods load)
 
-3.- Make sure you have the game on FullScreen-Windowed
+ -  3.- Make sure you have the game on FullScreen-Windowed
 
-4.- Start MunoralsInyector.exe
+ -  4.- Start MunoralsInyector.exe
 
-5.- Go back to the game and press INSERT
+ -  5.- Go back to the game and press INSERT
 
-6.- Enjoy.
+ -  6.- Enjoy.
 
 Public & Safe Cheats: https://discord.gg/QJvweAchXH
 Public & Safe Cheats: https://discord.gg/QJvweAchXH
