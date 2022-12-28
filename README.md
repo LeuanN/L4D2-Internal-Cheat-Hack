@@ -1,7 +1,7 @@
 # Leuan & Wickersons
 Internal Hack for L4D2, using C++ and ImGui
  - 
-Public & Safe Cheats: https://discord.gg/QJvweAchXH
+Public & Safe Cheats: https://discord.gg/BYBQQM5gzd
  -
 
 This may generate FPS Drop, but it has almost everything a hack need
@@ -30,9 +30,9 @@ How To Use:
  -  6.- Enjoy.
 
 
-Public & Safe Cheats: https://discord.gg/QJvweAchXH
+Public & Safe Cheats: https://discord.gg/BYBQQM5gzd
  - 
-Public & Safe Cheats: https://discord.gg/QJvweAchXH
+Public & Safe Cheats: https://discord.gg/BYBQQM5gzd
  - 
 Cheats for CSGO, L4D2, TF2, Valorant, Apex
 CSGO Cheat, L4D2 Cheat, Valorant Cheat, Apex Cheat
